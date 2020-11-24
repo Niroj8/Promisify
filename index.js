@@ -26,7 +26,7 @@ let jsArrObj = [
   },
   {
     name: "Rhythm",
-    age: 20,
+    age: 20
   }
 ];
 const write = async () => {
